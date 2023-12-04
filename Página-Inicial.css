@@ -12,10 +12,10 @@
 }
 
 .u-section-1 .u-group-1 {
-  width: 546px;
-  min-height: 738px;
+  width: 701px;
+  min-height: 626px;
   height: auto;
-  margin: 7px 137px 0 auto;
+  margin: 7px 60px 0 auto;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -23,36 +23,42 @@
 }
 
 .u-section-1 .u-text-3 {
+  font-size: 1.25rem;
   margin: 7px 0 0;
 }
 
 .u-section-1 .u-image-1 {
   width: 238px;
   height: 238px;
-  margin: -527px auto 289px 120px;
+  margin: -462px auto 60px 91px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1170px;
+    min-height: 918px;
   }
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-top: 53px;
-    margin-right: 203px;
+    margin-top: 31px;
+    margin-right: 221px;
   }
 
   .u-section-1 .u-group-1 {
-    margin-top: -3px;
+    width: 596px;
+    min-height: 611px;
+    margin-top: 19px;
     margin-right: 17px;
     height: auto;
   }
 
+  .u-section-1 .u-text-3 {
+    font-size: 1.125rem;
+  }
+
   .u-section-1 .u-image-1 {
-    margin-top: -735px;
-    margin-bottom: 60px;
-    margin-left: 75px;
+    margin-top: -424px;
+    margin-left: 36px;
   }
 }
 
@@ -80,12 +86,14 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: 243px;
-    margin-right: 141px;
+    margin-top: 253px;
+    margin-right: auto;
+    margin-left: 187px;
   }
 
   .u-section-1 .u-group-1 {
-    margin-right: 0;
+    margin-top: -39px;
+    margin-right: auto;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -96,8 +104,8 @@
   .u-section-1 .u-image-1 {
     width: 198px;
     height: 198px;
-    margin-top: -1032px;
-    margin-left: 26px;
+    margin-top: -1029px;
+    margin-left: auto;
   }
 }
 
@@ -108,16 +116,22 @@
 
   .u-section-1 .u-text-2 {
     margin-top: 248px;
-    margin-right: auto;
+    margin-left: 118px;
   }
 
   .u-section-1 .u-group-1 {
-    width: 340px;
+    width: 383px;
+    min-height: 998px;
     margin-top: 7px;
+    margin-left: -21px;
+    margin-right: -21px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.25rem;
   }
 
   .u-section-1 .u-image-1 {
-    margin-top: -1274px;
-    margin-left: auto;
+    margin-top: -1330px;
   }
 }
